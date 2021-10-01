@@ -2,7 +2,4 @@
 
 using namespace std;
 
-void helper()
-{
-    cout << "good" << endl;
-}
+void helper() { cout << "good" << endl; }
